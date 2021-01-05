@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [Essence](https://www.github.com/bradcypert/essence)
+- 👯 I’m looking to collaborate on [Ghast](https://www.github.com/bradcypert/ghast)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bradcypert](https://github.com/bradcypert)
 
