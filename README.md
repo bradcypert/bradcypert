@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Luna Journal](https://lunajournal.app)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Rust & Machine Learning**
 
-- 👯 I’m looking to collaborate on [Ghast](https://www.github.com/bradcypert/ghast)
+- 👯 I’m looking to collaborate on [Steward](https://www.github.com/pyrestudios/steward): an empowering server-side framework for Dart!
 
-- 👨‍💻 All of my projects are available at [https://github.com/bradcypert](https://github.com/bradcypert)
+- 👨‍💻 All of my public projects are available at [https://github.com/bradcypert](https://github.com/bradcypert)
 
 - 📝 I regulary write articles on [https://bradcypert.com](https://bradcypert.com)
 
-- 💬 Ask me about **React, Go, TypeScript, Dart, Kotlin**
+- 💬 Ask me about **React, Go, TypeScript, Dart, Kotlin and more**
 
 - 📫 How to reach me **brad[dot]cypert[at]gmail[dot]com**
 
